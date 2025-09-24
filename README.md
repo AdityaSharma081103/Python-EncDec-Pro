@@ -31,8 +31,8 @@ It supports both **symmetric (Fernet/AES)** and **asymmetric (RSA)** encryption.
 1. Clone this repository:
 
 2.	Install dependencies:  
-pip install cryptography rsa
+- pip install cryptography rsa
 
 3.	Run the tool:  
-python EncDec-Pro.py    
+- python EncDec-Pro.py    
    
