@@ -36,3 +36,4 @@ It supports both **symmetric (Fernet/AES)** and **asymmetric (RSA)** encryption.
 3.	Run the tool:  
 - python EncDec-Pro.py    
    
+<img width="1642" height="1014" alt="image" src="https://github.com/user-attachments/assets/089b5aed-7c98-4bb9-b854-6ca44600c79e" />
