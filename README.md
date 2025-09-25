@@ -32,15 +32,14 @@ It supports both **symmetric (Fernet/AES)** and **asymmetric (RSA)** encryption.
 
 2.	Install dependencies:  
 - pip install cryptography rsa
-
-3.	Run the tool:  
-- python EncDec-Pro.py    
+  
    
 <img width="1118" height="577" alt="Screenshot 2025-09-25 at 9 50 51 PM" src="https://github.com/user-attachments/assets/2d79faca-4237-45bc-a4cb-2dddf4efe1c4" />  
 
 
 
-
+3.	Run the tool:  
+- python EncDec-Pro.py  
 
 <img width="357" height="53" alt="Screenshot 2025-09-25 at 9 51 54 PM" src="https://github.com/user-attachments/assets/5a799fdb-93fc-4c12-9d4f-207e5c6d7cf7" />
 
